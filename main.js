@@ -1,8 +1,8 @@
 let resume = `# 单肖巍
-TEL: 18665950536 | Email: marx0@foxmail.com
-Profile: https://caijialinxx.github.io/resume/
-Blog: https://www.cnblogs.com/65Seeker/
-17届毕业生 | 前端开发工程师
+求职意向：前端开发工程师 | 现居:深圳
+TEL: 18665950536 | E-mail: marx0@foxmail.com 
+Profile: https://65seeker.github.io/resume/demo/index.html
+ Blog: https://www.cnblogs.com/65Seeker/
 
 ## 专业技能
 - Vue.js
@@ -43,15 +43,15 @@ Blog: https://www.cnblogs.com/65Seeker/
 - 描述：此项目是本人的一个信息介绍页，包含基础信息、技能、项目展示以及留言板功能。有大量精美的动画，例如滚动时的导航栏及模块的浮起、导航栏 hover 动画、响应式设计等。
 - [源码链接](https://github.com/65Seeker/resume) | [预览链接](https://caijialinxx.github.io/resume/)
 
-### 幻灯片放映室
+### 轮播放映室
 - 关键词：\`jQuery\`、\`Loop模式\`、\`缩略图模式\`、\`Rem\`、\`适配移动端\`、\`ES6\`
 - 描述：本项目展示了两种不同风格的轮播，功能有上一张、下一张、可点击的原点/缩略图导航、自动循环播放。使用了 Rem 单位，以及适配移动端。
-- [源码链接]() | [预览链接]()
+- [源码链接](https://github.com/65Seeker/touch-slider) | [预览链接](https://65seeker.github.io/touch-slider/index.html)
 
-### 彩色涂鸦
+### 彩色涂鸦画板
 - 关键词：\`HTML5\`、\`Canvas\`、\`ES6\`、\`JavaScript\`
 - 描述：使用 HTML5 的 Canvas 元素及其相关 API ，实现支持多指同时画图（可选色/粗细）、橡皮擦、一键清空、保存至本地的功能。
-- [源码链接]() | [预览链接]()
+- [源码链接](https://github.com/65Seeker/canvas) | [预览链接](https://65seeker.github.io/canvas/index.html)
 
 
 ## 教育经历
