@@ -33,12 +33,12 @@ Profile: https://65seeker.github.io/resume/demo/index.html
 - 描述：此项目主要通过Vue.js 技术栈实现高仿CNODE社区，主要技术栈包括vue.js计算属性，内置指令和事件的绑定，自定义事件和触发，路由的跳转和监听，父子组件之间的数据传递
 - [源码链接](https://github.com/65Seeker/project-cnode) | [预览链接](https://65seeker.github.io/project-cnode/dist/index.html#/)
 
-### 简历生成器
+### 动态简历
 - 关键词：\`JavaScript\`、\`Promise\`、\`变速\`、\`过渡动画\`、\`盒阴影\`
 - 描述：该项目实现了一个 Markdown 简历的制作过程，在原生 JS 中使用 Promise 处理异步操作，利用 CSS3 实现过渡、动画、阴影和弹性布局等。
 - [源码链接](https://github.com/65Seeker/AnimationResume) | [预览链接](https://github.com/65Seeker/AnimationResume)
 
-### 炫主页
+### 个人主页
 - 关键词：\`jQuery\`、\`CSS3 过渡动画\`、\`组件化思想\`、\`MVC 思想\`、\`媒体查询\`、\`Sticky\`
 - 描述：此项目是本人的一个信息介绍页，包含基础信息、技能、项目展示以及留言板功能。有大量精美的动画，例如滚动时的导航栏及模块的浮起、导航栏 hover 动画、响应式设计等。
 - [源码链接](https://github.com/65Seeker/resume) | [预览链接](https://caijialinxx.github.io/resume/)
