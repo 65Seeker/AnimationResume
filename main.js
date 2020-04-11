@@ -1,5 +1,5 @@
 let resume = `# 单肖巍
-求职意向：前端开发工程师 | 现居:深圳
+求职意向：前端开发工程师 | 现居:长沙
 TEL: 18665950536 | E-mail: marx0@foxmail.com 
 Profile: https://65seeker.github.io/resume/demo/index.html
  Blog: https://www.cnblogs.com/65Seeker/
@@ -22,9 +22,14 @@ Profile: https://65seeker.github.io/resume/demo/index.html
     - 理解 MVC 、 MVVM 思想，掌握 HTTP 基础等
 
 ## 工作经历
+
+##深圳财富万方信息有限公司
+- 职位：前端开发
+2019/04-2019/12
+工作内容：参与教育云平台2.0项目从零开发，该项目基于Vue.js+ElementUI构建，项目结束时已完成学校前台官网，班级空间网站，以及后台管理系统网站。承担公司网站主页开发，负责编写网站全部静态页面代码，包括工具栏组件，弹窗组件和下拉菜单组件。
 ### 深圳一诺琦科技有限公司
 2017/6 - 2018/8
-- 职位：店铺静态网页制作
+- 职位：设计美工
 - 工作内容：参与公司店铺的网页设计与制作，主要使用CSS+DIV操作网页制作，静态页面的代码设计和编写，针对公司产品电商展示页面使用Photoshop,DW等软件完成设计、美化等工作。
 
 ## 项目经验
